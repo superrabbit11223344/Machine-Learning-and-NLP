@@ -1,6 +1,6 @@
 # Machine-Learning-and-NLP
 中国人民大学 机器学习与自然语言处理课程
-## No.1 经典机器学习算法
+## No.1 经典机器学习算法汇总
 
 - 线性回归 Linear Regression
 - 逻辑回归 Logistic Regression
