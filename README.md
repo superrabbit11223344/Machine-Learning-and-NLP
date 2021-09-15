@@ -19,4 +19,5 @@
   - ...
 
 ## No.2 补充学习资料
-https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+- blog: https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+- code: https://github.com/wepe/MachineLearning
